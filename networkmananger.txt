@@ -9,3 +9,6 @@ NETWORK=192.168.1.1
 DEFROUTE=yes
 IPV4_FAILURE_FATAL=yes
 IPV6INIT=no
+
+feel like it takes a long time
+I AM BACK!
